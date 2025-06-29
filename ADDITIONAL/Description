@@ -1,0 +1,1 @@
+For both classification of anomalous cell samples and dimensionality reduction purposes we successfully implemented a relatively small MLP AutoEncoder that shrinks the dataset dimensionality to about 50 highly variable latent features.
