@@ -1,4 +1,4 @@
-# *<ins>AI_LAB_2025</ins>*
+# <h1 align="center">*<ins>AI_LAB_2025</ins>*</h1>
 
 ## Authors:
 1. Andrea Lamonarca
