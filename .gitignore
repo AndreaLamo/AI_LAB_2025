@@ -1,0 +1,33 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Data files (keep repo clean and avoid accidental upload)
+data/
+datasets/
+*.csv
+*.tsv
+*.h5ad
+*.loom
+*.mtx
+*.h5
+
+# Notebook outputs if you ever export them
+*.html
