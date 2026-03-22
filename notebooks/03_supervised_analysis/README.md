@@ -1,0 +1,1 @@
+In this folder are contained the notebooks for the supervised analysis. It is worth mentioning that the code logic is the same, the only difference is that we run it on the 2 difference datasets: HCC1806 and MCF7.
