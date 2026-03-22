@@ -40,6 +40,31 @@ In this group project, carried out as part of the course "Mathematical Modelling
       └─ AutoEncoder.ipynb
    ```
 
+## Installation and Setup
+### 1. Clone the repository
+```text
+git clone https://github.com/AndreaLamo/AI_LAB_2025.git
+cd AI_LAB_2025
+```
+
+### 2. Create and activate a virtual environment:
+- Windows
+```text
+python -m venv .venv
+.venv\Scripts\activate
+```
+- macOS / Linux
+```text
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+### 3. Install dependencies
+Install the required Python packages with:
+```text
+pip install -r requirements.txt
+```
+
 ## Key Results
 Some of the main conclusions of the project are:
 
