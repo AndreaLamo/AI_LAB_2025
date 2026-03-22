@@ -11,7 +11,7 @@ In this group project, carried out as part of the course "Mathematical Modelling
 
 ## Repo Structure:
 ```text
-AI_LAB_2025/
+.
 ├─ README.md
 ├─ LICENSE
 ├─ .gitignore
@@ -40,3 +40,12 @@ AI_LAB_2025/
 └─ docs/                         # optional
    └─ project_report.pdf         # only if you want to add reports later
    ```
+
+## Key Results
+Some of the main conclusions of the project are:
+
+- **Feature selection mattered significantly**, as retaining informative genes was crucial for strong predictive performance.
+- **UMAP provided strong visual separation** of groups in reduced space.
+- **DBSCAN was highly sensitive to sparsity**, sometimes labeling most observations as noise.
+- the comparison between **SmartSeq** and **DropSeq** highlighted meaningful trade-offs between sensitivity, throughput, and downstream modeling behavior.
+- **Supervised models performed well**, especially when trained on appropriately filtered datasets.
