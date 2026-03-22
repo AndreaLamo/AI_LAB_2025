@@ -15,7 +15,7 @@ In this group project, carried out as part of the course "Mathematical Modelling
 ├─ README.md
 ├─ LICENSE
 ├─ .gitignore
-├─ requirements.txt              # optional but recommended
+├─ requirements.txt          
 ├─ notebooks/
 │  ├─ 01_eda_preprocessing/
 │  │  ├─ README.md
@@ -31,14 +31,12 @@ In this group project, carried out as part of the course "Mathematical Modelling
 │  │  ├─ dimred_mcf7_smartseq.ipynb
 │  │  ├─ unsupervised_dropseq.ipynb
 │  │  └─ unsupervised_smartseq.ipynb
-│  ├─ 03_supervised_analysis/
-│  │  ├─ README.md
-│  │  ├─ supervised_hcc_dropseq_smartseq.ipynb
-│  │  └─ supervised_mcf7_dropseq_smartseq.ipynb
-│  └─ 04_additional_experiments/
-│     └─ README.md
-└─ docs/                         # optional
-   └─ project_report.pdf         # only if you want to add reports later
+└─ ├─ 03_supervised_analysis/
+   │  ├─ README.md
+   │  ├─ supervised_hcc_dropseq_smartseq.ipynb
+   │  └─ supervised_mcf7_dropseq_smartseq.ipynb
+   └─ 04_additional_experiments/
+      └─ README.md
    ```
 
 ## Key Results
