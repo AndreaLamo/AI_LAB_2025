@@ -17,26 +17,27 @@ In this group project, carried out as part of the course "Mathematical Modelling
 ├─ .gitignore
 ├─ requirements.txt          
 ├─ notebooks/
-│  ├─ 01_eda_preprocessing/
-│  │  ├─ README.md
-│  │  ├─ eda_dropseq.ipynb
-│  │  ├─ eda_smartseq_filtered_normalized.ipynb
-│  │  ├─ eda_smartseq_unfiltered.ipynb
-│  │  └─ isolation_forest_dropseq.ipynb
-│  ├─ 02_unsupervised_analysis/
-│  │  ├─ README.md
-│  │  ├─ dimred_hcc_dropseq.ipynb
-│  │  ├─ dimred_hcc_smartseq.ipynb
-│  │  ├─ dimred_mcf7_dropseq.ipynb
-│  │  ├─ dimred_mcf7_smartseq.ipynb
-│  │  ├─ unsupervised_dropseq.ipynb
-│  │  └─ unsupervised_smartseq.ipynb
-└─ ├─ 03_supervised_analysis/
+   ├─ 01_eda_preprocessing/
+   │  ├─ README.md
+   │  ├─ eda_dropseq.ipynb
+   │  ├─ eda_smartseq_filtered_normalized.ipynb
+   │  ├─ eda_smartseq_unfiltered.ipynb
+   │  └─ isolation_forest_dropseq.ipynb
+   ├─ 02_unsupervised_analysis/
+   │  ├─ README.md
+   │  ├─ dimred_hcc_dropseq.ipynb
+   │  ├─ dimred_hcc_smartseq.ipynb
+   │  ├─ dimred_mcf7_dropseq.ipynb
+   │  ├─ dimred_mcf7_smartseq.ipynb
+   │  ├─ unsupervised_dropseq.ipynb
+   │  └─ unsupervised_smartseq.ipynb
+   ├─ 03_supervised_analysis/
    │  ├─ README.md
    │  ├─ supervised_hcc_dropseq_smartseq.ipynb
    │  └─ supervised_mcf7_dropseq_smartseq.ipynb
    └─ 04_additional_experiments/
-      └─ README.md
+      ├─ README.md
+      └─ AutoEncoder.ipynb
    ```
 
 ## Key Results
